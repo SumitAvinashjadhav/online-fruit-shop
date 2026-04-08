@@ -69,7 +69,7 @@ The application also includes an Admin panel to manage products and users effici
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](home.png)
+![Home](screenshoot/home.png)
 
 ### 🔐 Login Page
 ![Login](login.png)
