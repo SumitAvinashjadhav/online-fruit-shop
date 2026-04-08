@@ -72,31 +72,31 @@ The application also includes an Admin panel to manage products and users effici
 ![Home](screenshoot/home.png)
 
 ### 🔐 Login Page
-![Login](login.png)
+![Login](screenshoot/login.png)
 
 ### 📝 Register Page
-![Register](register.png)
+![Register](screenshoot/register.png)
 
 ### 🛍️ Products Page
-![Products](products.png)
+![Products](screenshoot/products.png)
 
 ### 🛒 Add To Cart
-![Cart](addtocart.png)
+![Cart](screenshoot/addtocart.png)
 
 ### 💳 Proceed To Payment
-![Payment](proceedtopayment.png)
+![Payment](screenshoot/proceedtopayment.png)
 
 ### 💰 Payment Gateway
-![Gateway](paymentgateway.png)
+![Gateway](screenshoot/paymentgateway.png)
 
 ### ✅ Payment Success
-![Success](paymentsuccess.png)
+![Success](screenshoot/paymentsuccess.png)
 
 ### 📞 Contact Page
-![Contact](contact.png)
+![Contact](screenshoot/contact.png)
 
 ### 📰 News Page
-![News](news.png)
+![News](screenshoot/news.png)
 
 ---
 
